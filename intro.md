@@ -15,7 +15,15 @@ TODO
 
 Programar é usar técnicas e ferramentas para compor as instruções que serão executadas por um computador para resolver um determinado problema.
 
-### A Linguagem
+Linguagens de programação são ferramentas que permitem escevermos programas utilizando uma linguagem mais próxima da humana do que a de máquina, além de outras facilidades que são úteis para o contexto da programação especificamente.
+
+Existem basicamente dois tipos de linguagens de programação:
+
+- Linguagens Compiladas: Onde escrevemos o código utilizando essa linguagem que então é processado por um programa chamado **compilador** o qual vai _gerar_ um arquivo executável pelo sistema operacional (código de máquina). Exemplo de linguagens compiladas: C, C++, Kotlin, Swift, Rust, Dart, Go etc...
+
+- Linguagens Interpretadas: Onde escrevemos o código utilizando essa linguagem que ao invés de ser transformada em código de máquina, é então _executado diretamente_ por um programa chamado **interpretador**. Exemplo de linguagens interpretadas: PHP, Ruby, Java, Python, Lua, Javascript etc...
+
+### Javascript
 
 Javascript é uma linguagem interpretada que pode rodar em várias plataformas como o NodeJS (que será usado nesse curso) ou mais popularmente em navegadores web.
 
