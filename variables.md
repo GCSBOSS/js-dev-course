@@ -38,3 +38,5 @@ As diversas linguagens de programação tem diferente maneiras de lidar com os t
 - Tipagem Dinâmica: Quando uma variável pode guardar valores de vários tipos ao longo do programa. Nesse caso um erro acontecerá apenas durante a xecução d programa caso se tente realizar uma operação assumindo o tipo de dado errado.
 
 Em Javascript a tipagem é dinâmica, de forma que dados tem tipo, mas variáveis não tem um tipo definido. As variáveis podem receber dados de qualquer sempre que desejado.
+
+[< Anterior](./data-types.md) --- [Índice](./index.md) --- [Próximo >](./io.md)

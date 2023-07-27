@@ -1,5 +1,7 @@
 # Introdução
 
+>
+
 Para inciar, instale os seguintes:
 
 - [VSCode](https://code.visualstudio.com/download): Editor de Código para programação.
@@ -25,3 +27,7 @@ Para acompanhar os exemplos das aulas e brincar com seus programas siga as segui
 3. Selecione a pasta onde seu arquivo está
 4. Execute o arquivo com `node ./meu-arquivo.js`
 5. O resultado será mostrado no terminal.
+
+
+---
+[Índice](./index.md) --- [Próximo >](./data-types.md)

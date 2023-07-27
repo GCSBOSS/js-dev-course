@@ -43,3 +43,6 @@ Além desses, algumas estruturas de dados também são muito comuns, como:
         possuiCarro: true
     };
     ```
+
+---
+[< Anterior](./intro.md) --- [Índice](./index.md) --- [Próximo >](./variables.md)
