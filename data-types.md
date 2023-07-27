@@ -3,7 +3,7 @@
 Em programas de computador, vários dados são utilizados e processados no decorrer da execução.
 Cada linguagem de programação oferece a possibilidade de trabalhar com dados de diferentes tipos.Alguns dos tipos de dados comuns incluem:
 
-- Inteiro (int): Armazena números inteiros, como 1, -5, 1000, etc.
+- Inteiro (integer): Armazena números inteiros, como 1, -5, 1000, etc.
 - Ponto flutuante (float ou double): Armazena números com casas decimais, como 3.14, -0.5, 2.71828, etc.
 - Booleano (bool): Armazena valores verdadeiro (true) ou falso (false).
 - Caractere (char): Armazena um único caractere, como 'A', 'b', '1', etc.
