@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 
 >
 
@@ -7,18 +7,18 @@ Para inciar, instale os seguintes:
 - [VSCode](https://code.visualstudio.com/download): Editor de Código para programação.
 - [NodeJS](https://nodejs.org/en/download): Plataforma para executar Javascript
 
-## Computador
+### Computador
 
-## Programação
+### Programação
 
 
-## A Linguagem
+### A Linguagem
 
 Javascript é uma linguagem interpretada que pode rodar em várias plataformas como o NodeJS (que será usado nesse curso) ou mais popularmente em navegadores web.
 
 É uma linguagem de alto nível em que **não** se precisa aprender muito sobre conceitos complexos da computação para iniciar.
 
-## Prática
+### Prática
 
 Para acompanhar os exemplos das aulas e brincar com seus programas siga as seguintes instruções:
 
