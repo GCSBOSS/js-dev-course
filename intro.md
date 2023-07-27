@@ -1,7 +1,5 @@
 ## Introdução
 
->
-
 Para inciar, instale os seguintes:
 
 - [VSCode](https://code.visualstudio.com/download): Editor de Código para programação.
@@ -9,8 +7,13 @@ Para inciar, instale os seguintes:
 
 ### Computador
 
+> A [Saga dos Computadores](https://www.youtube.com/playlist?list=PLYjrJH3e_wDOA5mxhiMxE6yslcIzU5NkX) é uma playlist do youtube com uma série de introdução sobre a composição do computador como conhecemos.
+
+TODO
+
 ### Programação
 
+Programar é usar técnicas e ferramentas para compor as instruções que serão executadas por um computador para resolver um determinado problema.
 
 ### A Linguagem
 
@@ -28,6 +31,16 @@ Para acompanhar os exemplos das aulas e brincar com seus programas siga as segui
 4. Execute o arquivo com `node ./meu-arquivo.js`
 5. O resultado será mostrado no terminal.
 
+### Comentários
+
+Em Javascript linhas inciadas por `//` são comentários e não fazem parte do progrrama em si. Comentários são usados para deixar alguma informação util sobre o progama em forma textual para quem vai precisar ler e entender o código no futuro. Até o 'você' do futuro!
+
+```js
+
+// Aqui eu posso escrever o que eu quiser
+// E o computador não vai se importar ;)
+
+```
 
 ---
 [Índice](./index.md) --- [Próximo >](./data-types.md)
