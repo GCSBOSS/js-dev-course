@@ -1,7 +1,7 @@
 
-## Programação para Iniciantes com Javascript
+## Programação para Iniciantes com JavaScript
 
-Aprenda programação do zero usando Javascript.
+Aprenda programação do zero usando JavaScript.
 
 ### Índice
 

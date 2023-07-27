@@ -9,7 +9,7 @@ Cada linguagem de programação oferece a possibilidade de trabalhar com dados d
 - Caractere (char): Armazena um único caractere, como 'A', 'b', '1', etc.
 - Texto ou cadeia de caracteres (string): Armazena sequências de caracteres, como "Olá, mundo!", "Nome do usuário", etc.
 
-Em Javascript os seguintes tipos de dados primitivos podem ser utilizados:
+Em JavaScript os seguintes tipos de dados primitivos podem ser utilizados:
 
 ```js
 let idade = 30; // number
