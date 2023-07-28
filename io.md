@@ -16,34 +16,23 @@ Em programação, "entrada" e "saída" referem-se à interação entre um progra
 
 A capacidade de entrada e saída é fundamental para tornar os programas interativos e úteis. Sem essas funcionalidades, os programas seriam isolados e incapazes de interagir com os usuários ou o ambiente ao seu redor. Portanto, a manipulação adequada de entrada e saída é uma habilidade essencial para os desenvolvedores de software.
 
-Nesse curso vamos usar com principal entrada e saída o **Terminal**.
-
-## Terminal
-
-Um "terminal" é uma ferramenta essencial no desenvolvimento de software. É uma interface de linha de comando que permite que você interaja com o sistema operacional do computador, executando comandos através de texto.
-
-Aqui estão algumas características e funcionalidades importantes de um terminal para um programador iniciante:
-
-1. Interface de linha de comando: Enquanto a maioria das interações com o computador são feitas através de interfaces gráficas (como janelas e ícones), um terminal oferece uma abordagem de linha de comando, onde você digita comandos em texto e pressiona Enter para executá-los.
-
-2. Acesso direto ao sistema operacional: O terminal permite que você tenha acesso direto ao sistema operacional do computador, como o Windows Command Prompt ou o macOS Terminal, o que permite executar várias tarefas de gerenciamento de arquivos e configurações do sistema.
-
-3. Execução de programas e scripts: Com o terminal, você pode executar programas e scripts através de comandos específicos. Por exemplo, você pode executar um programa Python digitando "python nome_do_programa.py" ou executar um script de compilação digitando "make".
-
-4. Gerenciamento de arquivos e diretórios: Você pode criar, mover, copiar, renomear e excluir arquivos e diretórios usando comandos no terminal. Isso é especialmente útil quando você precisa realizar tarefas de organização de projetos e manipulação de arquivos.
-
-6. Visualização de informações do sistema: Com alguns comandos específicos, você pode obter informações sobre o sistema, como especificações do hardware, uso de recursos, processos em execução e muito mais.
-
-8. Interação com ambientes de desenvolvimento: Alguns ambientes de desenvolvimento integrados (IDEs) também têm a opção de abrir um terminal integrado, permitindo que você execute comandos diretamente a partir do IDE.
+Nesse curso vamos usar com principal entrada e saída do Terminal.
 
 ## Console
 
 O JavaScript possui uma forma padrão de enviar dados de **saída** ao terminal, através de chamar a função `console.log` e passar como argumentos os valores que se desejam mostrar no terminal.
 
 ```js
-console.log('Olá Mundo!');
+console.log('Olá Mundo!')
 
-console.log('Algum valor:', 128);
+console.log('Algum valor:', 128)
 ```
 
-Para receber dados de entrada o JavaScript não possui uma forma padronizada. A forma que vamos usar é através de uma função do NodeJS (a plataforma que vamos usar para executar JavaScript) ``
+Para receber dados de entrada o JavaScript não possui uma forma padronizada ainda. A forma que vamos usar é através de uma função `prompt` nativa do Deno, que ao ser chamada vai requisitar ao terminal que deixe o usuário 'entrar' com algum valor. O valor digitado pelo usuário será retornado e pode ser guardado em uma variável.
+
+```js
+let valor = prompt()
+```
+
+---
+[< Anterior](./variables.md) --- [Índice](./index.md) --- [Próximo >](./operations.md)
